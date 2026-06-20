@@ -149,36 +149,6 @@ Uygulamadaki yemek verileri `lib/data/food_data.dart` dosyasında statik olarak 
 - Sepet sistemi temel state yönetimi mantığını göstermek için simüle edilmiştir.
 - Görseller demo amaçlı URL üzerinden kullanılmaktadır. Daha stabil bir yapı için görsellerin `assets/images/` klasörüne alınması önerilir.
 
-## GitHub Teslim Kontrol Listesi
-
-- [ ] Repository public olmalı
-- [ ] Proje çalışır durumda olmalı
-- [ ] README.md dosyası eklenmeli
-- [ ] Flutter sürümü README içinde belirtilmeli
-- [ ] Uygulama ekran görüntüleri eklenmeli
-- [ ] Gereksiz build dosyaları GitHub'a yüklenmemeli
-
-## GitHub'a Yükleme Komutları
-
-İlk kez repository oluşturduktan sonra proje klasöründe şu komutlar kullanılabilir:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/kullanici-adin/sofra.git
-git push -u origin main
-```
-
-Daha sonra güncelleme yapmak için:
-
-```bash
-git add .
-git commit -m "Update project"
-git push
-```
-
 ## Geliştirici
 
 Ahmet Yaşar
