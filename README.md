@@ -74,6 +74,8 @@ lib/
 ```
 
 ## Ekran Görüntüleri
+<img width="384" height="858" alt="image" src="https://github.com/user-attachments/assets/c375ba02-9ad8-42b1-8d85-0ef177bb577a" />
+
 
 Proje tesliminde ekran görüntüleri eklenmelidir. Önerilen klasör yapısı:
 
