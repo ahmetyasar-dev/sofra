@@ -39,13 +39,6 @@ Bu projenin amacı Flutter temel yapılarını kullanarak küçük ölçekli fak
 
 Projede Flutter SDK kullanılmıştır.
 
-> Kendi bilgisayarındaki net Flutter sürümünü görmek için terminalde şu komutu çalıştırabilirsin:
-
-```bash
-flutter --version
-```
-
-README tesliminden önce bu bölüme kendi Flutter sürümünü yazman önerilir.
 
 Örnek:
 
@@ -75,6 +68,12 @@ lib/
 
 ## Ekran Görüntüleri
 <img width="384" height="858" alt="image" src="https://github.com/user-attachments/assets/c375ba02-9ad8-42b1-8d85-0ef177bb577a" />
+<img width="376" height="853" alt="cart" src="https://github.com/user-attachments/assets/0824eb37-779e-4f70-b88a-8ed0e0c9f6dd" />
+<img width="384" height="858" alt="category-dessert" src="https://github.com/user-attachments/assets/5f81400c-3f99-437f-9803-9a4e289ea753" />
+<img width="383" height="861" alt="detail" src="https://github.com/user-attachments/assets/1cdfe55c-4034-4dbb-8d3d-85a4e256021c" />
+
+
+
 
 
 Proje tesliminde ekran görüntüleri eklenmelidir. Önerilen klasör yapısı:
@@ -149,7 +148,6 @@ Uygulamadaki yemek verileri `lib/data/food_data.dart` dosyasında statik olarak 
 - Proje eğitim ve demo amacıyla hazırlanmıştır.
 - Gerçek ödeme veya gerçek sipariş sistemi içermez.
 - Sepet sistemi temel state yönetimi mantığını göstermek için simüle edilmiştir.
-- Görseller demo amaçlı URL üzerinden kullanılmaktadır. Daha stabil bir yapı için görsellerin `assets/images/` klasörüne alınması önerilir.
 
 ## Geliştirici
 
